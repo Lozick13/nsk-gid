@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6620b961e39e7a41e1f2db72"
+  },
+  "username": "Мукане Виджей",
+  "email": "mukane@test",
+  "password": "123"
+},
+{
+  "_id": {
+    "$oid": "6620b961e39e7a41e1f2db73"
+  },
+  "username": "Лозичный Дмитрий",
+  "email": "lozick@test",
+  "password": "123"
+},
+{
+  "_id": {
+    "$oid": "6620b961e39e7a41e1f2db74"
+  },
+  "username": "Попова Ксения",
+  "email": "popova@test",
+  "password": "123"
+},
+{
+  "_id": {
+    "$oid": "664f52c6a27e3a5956349e0f"
+  },
+  "username": "Жмых Пожилой",
+  "email": "mishaloh228@gmail.com",
+  "password": "VOVCHIKSUPER123"
+}]

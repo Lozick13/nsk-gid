@@ -1,0 +1,86 @@
+@font-face {
+  font-family: 'Jost';
+  font-weight: 200;
+  font-style: normal;
+
+  src: url('../fonts/Jost-ExtraLight.ttf');
+}
+@font-face {
+  font-family: 'Jost';
+  font-weight: 300;
+  font-style: normal;
+
+  src: url('../fonts/Jost-Light.ttf');
+}
+@font-face {
+  font-family: 'Jost';
+  font-weight: 400;
+  font-style: normal;
+
+  src: url('../fonts/Jost-Regular.ttf');
+}
+@font-face {
+  font-family: 'Jost';
+  font-weight: 600;
+  font-style: normal;
+
+  src: url('../fonts/Jost-SemiBold.ttf');
+}
+@font-face {
+  font-family: 'Jost';
+  font-weight: 700;
+  font-style: normal;
+
+  src: url('../fonts/Jost-Bold.ttf');
+}
+
+.jost-small {
+  font: {
+    family: 'Jost';
+    weight: 200;
+    size: 10px;
+  }
+}
+.jost-help {
+  font: {
+    family: 'Jost';
+    weight: 300;
+    size: 24px;
+  }
+}
+.jost-rarefaction {
+  font: {
+    family: 'Jost';
+    weight: 400;
+    size: 24px;
+  }
+  letter-spacing: .2em;
+}
+.jost-button {
+  font: {
+    family: 'Jost';
+    weight: 600;
+    size: 30px;
+  }
+}
+.jost-large {
+  font: {
+    family: 'Jost';
+    weight: 400;
+    size: 20px;
+  }
+}
+.jost-set {
+  font: {
+    family: 'Jost';
+    weight: 300;
+    size: 16px;
+  }
+}
+.jost-name {
+  font: {
+    family: 'Jost';
+    weight: 700;
+    size: 62px;
+  }
+}

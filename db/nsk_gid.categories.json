@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "6620bc65e39e7a41e1f2db78"
+  },
+  "name": "Ресторан",
+  "svg_name": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "6620bc65e39e7a41e1f2db79"
+  },
+  "name": "Бар",
+  "svg_name": "bar"
+},
+{
+  "_id": {
+    "$oid": "6620bc65e39e7a41e1f2db7a"
+  },
+  "name": "Банкет",
+  "svg_name": "banquet"
+},
+{
+  "_id": {
+    "$oid": "6620bc65e39e7a41e1f2db7b"
+  },
+  "name": "Еда",
+  "svg_name": "food"
+},
+{
+  "_id": {
+    "$oid": "6620bc65e39e7a41e1f2db7c"
+  },
+  "name": "Кафе",
+  "svg_name": "cafe"
+},
+{
+  "_id": {
+    "$oid": "6620bc65e39e7a41e1f2db7d"
+  },
+  "name": "Фастфуд",
+  "svg_name": "fastfood"
+},
+{
+  "_id": {
+    "$oid": "6620bc65e39e7a41e1f2db7f"
+  },
+  "name": "Веганское меню",
+  "svg_name": "vegan"
+},
+{
+  "_id": {
+    "$oid": "6620bc65e39e7a41e1f2db80"
+  },
+  "name": "Доставка",
+  "svg_name": "delivery"
+},
+{
+  "_id": {
+    "$oid": "6620beafe39e7a41e1f2db81"
+  },
+  "name": "Алкоголь",
+  "svg_name": "spirt"
+},
+{
+  "_id": {
+    "$oid": "6620ccdae39e7a41e1f2db8b"
+  },
+  "name": "Развлечения",
+  "svg_name": "entertainment"
+},
+{
+  "_id": {
+    "$oid": "6620ccdae39e7a41e1f2db8c"
+  },
+  "name": "Кинотеатр",
+  "svg_name": "cinema"
+},
+{
+  "_id": {
+    "$oid": "6620ccdae39e7a41e1f2db8d"
+  },
+  "name": "Квест",
+  "svg_name": "quest"
+},
+{
+  "_id": {
+    "$oid": "6620ccdae39e7a41e1f2db8e"
+  },
+  "name": "Спорт",
+  "svg_name": "sport"
+},
+{
+  "_id": {
+    "$oid": "6620ccdae39e7a41e1f2db8f"
+  },
+  "name": "Караоке",
+  "svg_name": "karaoke"
+},
+{
+  "_id": {
+    "$oid": "6620ccdae39e7a41e1f2db90"
+  },
+  "name": "18+",
+  "svg_name": "18plus"
+},
+{
+  "_id": {
+    "$oid": "6620ccdae39e7a41e1f2db91"
+  },
+  "name": "Экстрим",
+  "svg_name": "extreme"
+},
+{
+  "_id": {
+    "$oid": "6620ccdae39e7a41e1f2db92"
+  },
+  "name": "3+",
+  "svg_name": "3plus"
+},
+{
+  "_id": {
+    "$oid": "6620ccdae39e7a41e1f2db93"
+  },
+  "name": "Семейный отдых",
+  "svg_name": "family"
+},
+{
+  "_id": {
+    "$oid": "6620f8d6e39e7a41e1f2dba6"
+  },
+  "name": "Культура",
+  "svg_name": "culture"
+},
+{
+  "_id": {
+    "$oid": "6620f8d6e39e7a41e1f2dba7"
+  },
+  "name": "Театр",
+  "svg_name": "theater"
+},
+{
+  "_id": {
+    "$oid": "6620f8d6e39e7a41e1f2dba8"
+  },
+  "name": "Музей",
+  "svg_name": "museum"
+},
+{
+  "_id": {
+    "$oid": "6620f8d6e39e7a41e1f2dba9"
+  },
+  "name": "Филармония",
+  "svg_name": "philharmonic"
+},
+{
+  "_id": {
+    "$oid": "6620f8d6e39e7a41e1f2dbaa"
+  },
+  "name": "Планетарий",
+  "svg_name": "planetarium"
+}]
